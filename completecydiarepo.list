@@ -111,6 +111,7 @@ deb http://j-gessner.de/repo/ ./
 deb http://julio.xarold.com/ ./
 deb http://junesiphone.com/repo/ ./
 deb http://justgetflux.com/cydia/ ./
+deb http://kindadev.com/apt/svn/ ./
 deb http://kuaidial.googlecode.com/svn/deb/ ./
 deb http://limneos.net/repo/ ./
 deb http://mcpe.s1ris.com/ ./
@@ -129,6 +130,7 @@ deb http://poomsmart.github.io/repo/ ./
 deb http://pw5a29.github.io/ ./
 deb http://r.appdb.cc/ ./
 deb http://rcrepo.com/ ./
+deb http://repo.aditkamath.com/svn/ ./
 deb http://repo.aethericdevteam.org ./
 deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.alexzielenski.com/ ./
@@ -176,5 +178,3 @@ deb http://wootylab.com/repo4u/ ./
 deb http://www.sinfuliphonerepo.com/ ./
 deb http://wynd07.appspot.com/r7/ ./
 deb http://yangapp.googlecode.com/svn/ ./
-deb http://repo.aditkamath.com/svn/ ./
-deb http://kindadev.com/apt/svn/ ./
