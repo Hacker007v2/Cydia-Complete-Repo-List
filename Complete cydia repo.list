@@ -176,3 +176,5 @@ deb http://wootylab.com/repo4u/ ./
 deb http://www.sinfuliphonerepo.com/ ./
 deb http://wynd07.appspot.com/r7/ ./
 deb http://yangapp.googlecode.com/svn/ ./
+deb http://repo.aditkamath.com/svn/ ./
+deb http://kindadev.com/apt/svn/ ./
